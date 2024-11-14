@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. ENS & Mines Paris & INRIA
 
@@ -12,7 +12,7 @@ profile:
     <p>INRIA, 48 Rue Barrault</p>
     <p>75013 Paris, France</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
