@@ -25,8 +25,8 @@ I am interested in **non-perturbative aspects** of **Quantum Field Theories** (Q
 My results include: 
 
   - A partial classification of **conformal boundary conditions** for the 4d Maxwell theory and for a free massless scalar in three and four dimensions;
-  - A classification of unitary conformal defects in the theory of a free massless scalar in dimensions greater that two;
-  - A bootstrap study of conformal line defects with continuous global symmetry and of long-range vector models;
+  - A classification of unitary **conformal defects** in the theory of a free massless scalar in dimensions greater that two;
+  - A bootstrap study of **long-range vector models**;
   - A study of **renormalization group flows** for **QFTs in AdS** background.
   
 I have worked on similar classification problems for symetrimmetric theories: in the context of the superconformal bootstrap to study a family of 3d SCFTs connected by a conformal manifold, and in the context of N=2 supegravity theories in three, four and five dimensions.
