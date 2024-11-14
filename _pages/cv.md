@@ -5,6 +5,6 @@ title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is a mini-CV. A detailed version can be downloaded [here](/assets/pdf/example_pdf.pdf).
+description: This is a mini-CV. A detailed version can be downloaded [here](edolauria.github.io/assets/pdf/example_pdf.pdf).
 sidebar: left
 ---
