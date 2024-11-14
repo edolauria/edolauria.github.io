@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Contact information and summary": {
     "name": "Edoardo Lauria",
     "label": "Postdoctoral Researcher at ENS & Mines Paris and INRIA",
     "image": "",
@@ -14,7 +14,7 @@
       "countryCode": "FR",
       "region": ""
     },
-    "profiles": [
+    "Profiles": [
       {
         "network": "LinkedIn",
         "username": "Edoardo Lauria",
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "work": [
+  "Employment": [
     {
       "name": "École Normale Supérieure, Mines Paris & INRIA",
       "position": "Postdoctoral Fellow ",
@@ -74,7 +74,7 @@
       ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "KU Leuven, Belgium",
       "location": "Leuven, Belgium",
@@ -119,7 +119,7 @@
       ]
     }
   ],
-  "awards": [
+  "Awards and fellowships": [
     {
       "title": "Von Humboldt Research Fellowship for Postdoc",
       "date": "2022-07-01",
@@ -142,7 +142,7 @@
       "summary": "Waterloo, Canada, September 2017 – December 2017"
     }
   ],
-  "certificates": [
+  "Qualifications": [
     {
       "name": "Abilitazione Scientifica Nazionale",
       "date": "2024-11-05",
@@ -165,7 +165,7 @@
       "icon": ""
     }
   ],
-  "languages": [
+  "Spoken Languages": [
     {
       "language": "Italian",
       "fluency": "Native speaker"
