@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ENS & Mines Paris & INRIA
+subtitle: #<a href='#'>Affiliations</a>. ENS & Mines Paris & INRIA
 
 profile:
   align: right
