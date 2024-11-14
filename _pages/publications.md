@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: The full list of publications an be found on [iNSPIRE](https://inspirehep.net/authors/1640931) or on [ArXiv](https://arxiv.org/search/?searchtype=author&query=Lauria%2C+E). Authors appear in alphabetical order.
+description: The full list of publications an be found on iNSPIRE and ArXiv. Authors appear in alphabetical order.
 nav: true
 nav_order: 2
 ---
