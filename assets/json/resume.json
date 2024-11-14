@@ -181,4 +181,68 @@
       "fluency": "Basic"
     }
   ]
+
+  "projects": [
+    {
+      "name": "Organization of Scientific Events",
+      "highlights": [
+        {
+          "title": "Theoretical Physics Seminars",
+          "role": "Co-organizer",
+          "location": "Durham University",
+          "startDate": "2019",
+          "endDate": "2020",
+          "summary": "Co-organized a series of theoretical physics seminars for Durham University's physics department."
+        },
+        {
+          "title": "Seed Seminars of Mathematics and Physics",
+          "role": "Co-organizer",
+          "location": "Institut Henri Poincaré (IHP), Paris",
+          "url": "https://seedseminar.apps.math.cnrs.fr/",
+          "summary": "Organizes a seminar series with three-month thematic periods, including both in-person and online events. Supported by Fondation Mathématique Jacques Hadamard.",
+          "events": [
+            {
+              "date": "18 October 2023",
+              "title": "Sphere Packings and CFT",
+              "url": "https://indico.math.cnrs.fr/event/10547/"
+            },
+            {
+              "date": "17 January 2024",
+              "title": "From discrete models to condensed matter",
+              "url": "https://indico.math.cnrs.fr/event/11013/"
+            },
+            {
+              "date": "27 March 2024",
+              "title": "Integrable systems",
+              "url": "https://indico.math.cnrs.fr/event/11734/"
+            },
+            {
+              "date": "9 November 2024",
+              "title": "New trends in QFT, modularity, resurgence",
+              "url": "https://indico.math.cnrs.fr/event/13003/"
+            }
+          ]
+        },
+        {
+          "title": "One-Day Conference on Matrix Models for Quantum Systems",
+          "role": "Co-organizer",
+          "location": "IHES, Paris",
+          "date": "7 June 2024",
+          "url": "https://indico.math.cnrs.fr/event/12052/",
+          "summary": "Co-organized a conference on Matrix Models for Quantum Systems at IHES."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Referee Activity",
+      "summary": "Refereed articles for journals in the field of high energy physics and applied sciences.",
+      "journals": [
+        "Journal of High Energy Physics (SISSA)",
+        "European Physical Journal Plus",
+        "SciPost Physics"
+      ]
+    }
+  ]
 }
