@@ -7,7 +7,6 @@ related_posts: false
 
 
 ### Recurring seminars or conferences
-{: .no_toc}
 <br/>
 
 
