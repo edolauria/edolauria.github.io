@@ -8,5 +8,5 @@ related_posts: false
 
 [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/)<br/>
 
-Institut Henri Poincaré and IHES, Paris & online on Zoom and [youtube](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured)
+Institut Henri Poincaré and IHES, Paris & online on Zoom
 
