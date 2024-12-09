@@ -18,16 +18,16 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hello! I am a theoretical physicists currently working as a postdoctoral researcher at **Quantic** group, at ENS & Mines Paris & INRIA.
+Hello! I am a theoretical physicist currently working as a postdoctoral researcher at the **Quantic** group, at ENS & Mines Paris & INRIA.
 
-I am interested in **non-perturbative aspects** of **Quantum Field Theories** (QFTs) and **Conformal Field Theories** (CFTs), with or without **boundaries** or **defects**, with applications ranging from condensed matter to strings. I try to address these problems within the **bootstrap framework**, namely by exploiting theory's consistency conditions and without referring to any particular microscopic description.
+I am interested in **non-perturbative aspects** of **Quantum Field Theories** (QFTs) and **Conformal Field Theories** (CFTs), with or without **boundaries** or **defects**, with applications ranging from condensed matter to strings theory. I try to address these problems within the **bootstrap framework**, namely by exploiting the theory’s consistency conditions without referring to any particular microscopic description.
 
 My results include: 
 
-  - A partial classification of **conformal boundary conditions** for the 4d Maxwell theory and for a free massless scalar in three and four dimensions;
-  - A classification of unitary **conformal defects** in the theory of a free massless scalar in dimensions greater that two;
+  - A partial classification of **conformal boundary conditions** for the 4d Maxwell theory and for free massless scalars in three and four dimensions;
+  - A classification of unitary **conformal defects** in the theory of free massless scalars in dimensions greater than two;
   - A bootstrap study of **long-range vector models**;
   - A study of **renormalization group flows** for **QFTs in AdS** background.
   
-I have worked on similar classification problems for symetrimmetric theories: in the context of the superconformal bootstrap to study a family of 3d SCFTs connected by a conformal manifold, and in the context of N=2 supegravity theories in three, four and five dimensions.
+I have worked on similar classification problems for spersymmetric theories: in the context of the superconformal bootstrap to study a family of 3d SCFTs connected by a conformal manifold, and in the context of N=2 supergravity theories in three, four and five dimensions.
 
