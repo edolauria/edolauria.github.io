@@ -1,12 +1,8 @@
 ---
 layout: post
-date: 01-09-2024
-inline: false
+date: 2015-10-22 15:59:00-0400
+inline: true
 related_posts: false
 ---
 
-
-[**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/)<br/>
-
-Institut Henri Poincaré and IHES, Paris & online on Zoom
-
+A simple inline announcement.
