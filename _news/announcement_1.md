@@ -11,9 +11,9 @@ related_posts: false
 <br/>
 
 
-_01.06.2023 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/){:target="_blank"}<br/>
+_01.06.2023 - current_ &#x2023; [**Seed Seminar of Mathematics and Physics**](https://seedseminar.apps.math.cnrs.fr/)<br/>
 
- Institut Henri Poincaré, Paris & online on Zoom.
+Institut Henri Poincaré, Paris & online on Zoom.
 
 [website](https://seedseminar.apps.math.cnrs.fr/), [youtube channel](https://www.youtube.com/channel/UCFHIbgMuNF8MNdEhDgAul9g/featured)
 
