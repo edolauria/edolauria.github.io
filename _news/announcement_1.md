@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Events
-date: 01-09/2024
+date: 01-09-2024
 inline: false
 related_posts: false
 ---
