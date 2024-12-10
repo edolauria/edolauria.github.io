@@ -14,7 +14,7 @@ This seminar series is structured into three-month thematic periods. Each themat
 
 We are currently supported by the Fondation mathématique Jacques Hadamard, the CNRS and the IHES; 
 
-Past events organized by this Series include:
+Past events organized within this series include:
 
 - 18 October 2023 at IHP,  <a href="https://indico.math.cnrs.fr/event/10547/" target="_blank"> Sphere Packings and CFT;
 - 17 January 2024 at IHP, <a href="https://indico.math.cnrs.fr/event/11013/" target="_blank"> From discrete models to condensed matter;
