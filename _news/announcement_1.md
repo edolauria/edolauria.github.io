@@ -6,11 +6,11 @@ inline: false
 related_posts: false
 ---
 
-This is a <i>Seed Seminar Event</i> on  <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a>, to be held of  at the Institut Henri Poincaré (IHP) in Paris. It is part of the Series <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank"> Seed Seminar of Mathematics and Physics </a>.
+This is a Seed Seminar Event on  [New trends in QFT, modularity, resurgence](https://seedseminar.apps.math.cnrs.fr), to be held of  at the Institut Henri Poincaré (IHP) in Paris. It is part of the [Seed Seminar of Mathematics and Physics](https://seedseminar.apps.math.cnrs.fr).
 
 ---
 
-This seminar series is structured into three-month thematic periods. Each thematic period is composed by: a kick-off event at [Institut Henri Poincaré](https://www.ihp.fr/fr) and a number of talks at [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/), streamed on Zoom (a list can be found [here](https://seedseminar.apps.math.cnrs.fr/talks/)). </a><br/>
+This seminar series is structured into three-month thematic periods. Each thematic period is composed by: a kick-off event at [Institut Henri Poincaré](https://www.ihp.fr/fr) and a number of talks at [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/), streamed on Zoom (a list can be found [here](https://seedseminar.apps.math.cnrs.fr/talks/)).
 
 We are currently supported by the Fondation mathématique Jacques Hadamard, the CNRS and the IHES; 
 
@@ -18,11 +18,11 @@ We are currently supported by the Fondation mathématique Jacques Hadamard, the 
 
 Past events organized within this series include:
 
-- 9 November 2024 at IHP, <a href="https://indico.math.cnrs.fr/event/13003/" target="_blank"> New trends in QFT, modularity, resurgence;
-- 7 June 2024 at IHES, <a href="https://indico.math.cnrs.fr/event/12052/" target="_blank"> Matrix models for quantum systems
-- 27 March 2024 at IHP, <a href="https://indico.math.cnrs.fr/event/11734/" target="_blank">  Integrable systems;
-- 17 January 2024 at IHP, <a href="https://indico.math.cnrs.fr/event/11013/" target="_blank"> From discrete models to condensed matter;
-- 18 October 2023 at IHP,  <a href="https://indico.math.cnrs.fr/event/10547/" target="_blank"> Sphere Packings and CFT;
+- 9 November 2024 at IHP, [New trends in QFT, modularity, resurgence](https://indico.math.cnrs.fr/event/13003/);
+- 7 June 2024 at IHES, [Matrix models for quantum systems](https://indico.math.cnrs.fr/event/12052/);
+- 27 March 2024 at IHP,[Integrable systems](https://indico.math.cnrs.fr/event/11734/);
+- 17 January 2024 at IHP, [From discrete models to condensed matter](https://indico.math.cnrs.fr/event/11013/);
+- 18 October 2023 at IHP,  [Sphere Packings and CFT](https://indico.math.cnrs.fr/event/10547/).
 
 
 
