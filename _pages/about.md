@@ -24,7 +24,7 @@ Theoretical physicist currently working as a postdoctoral researcher at the **Qu
 
 I am interested in **non-perturbative aspects** of **Quantum Field Theories** (QFTs) and **Conformal Field Theories** (CFTs), with or without **boundaries** or **defects**, with applications ranging from condensed matter to string theory. I try to address these problems within the **bootstrap framework**, namely by exploiting the theory’s consistency conditions without referring to any particular microscopic description.
 
-**Keywords** : Conformal Field Theories and Bootstrap, Boundaries and defects, Strong Coupling, Quantum Field Theory in curved background, Gauge Theories, Renormalization Group, Supersymmetry, Long-Range Interactions.
+**Keywords** : CFTs and Bootstrap, Boundaries and defects, Strong Coupling, QFT in curved background, Gauge Theories, Renormalization Group, Supersymmetry, Long-Range models.
 
 
 
