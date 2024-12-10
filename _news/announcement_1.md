@@ -1,12 +1,11 @@
+
 ---
 layout: post
+title: Seed Seminar Event at IHP
 date: 2024-12-18 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
-
-<h3>Announcements</h3>
-
-- <i>Seed Seminar Event at IHP </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
+Conlcuding event for the <i>Trimester of the Seed Seminar </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
 
