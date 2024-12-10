@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-Looking forward to the <a href="https://www.igap-ts.it/2024/07/23/workshop-on-qft-in-ads/">Workshop on QFT in AdS</a> in Trieste!
+Looking forward to the <a href="https://sites.google.com/view/qftinadsworkshop/home">Workshop on QFT in AdS</a> in Trieste!
 
 
