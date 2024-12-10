@@ -1,9 +1,8 @@
 ---
 layout: post
-date:
-inline: true
+title:  Seed Seminar of Mathematics and Physics
+date: 2024-2025
+inline: false
 related_posts: false
 ---
-
-- <i>Seed Seminar of Mathematics and Physics </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
 
