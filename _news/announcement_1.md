@@ -12,7 +12,7 @@ This is part of the Series <a href="https://seedseminar.apps.math.cnrs.fr/" targ
 
 This seminar series is structured into three-month thematic periods. Each thematic period is composed by: a kick-off event at Institut Henri Poincaré in Paris and a number of talks at IHES (Bures-sur-Yvette), streamed on Zoom (a list can be found <a href="https://seedseminar.apps.math.cnrs.fr/talks/" target="_blank"> here). </a><br/>
 
-We are currently supported by the Fondation mathématique Jacques Hadamard, the CNRS, the IHES; 
+We are currently supported by the Fondation mathématique Jacques Hadamard and the CNRS; 
 
 Past events organized by this Series include:
 
