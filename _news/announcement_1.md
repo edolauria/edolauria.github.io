@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New trends in QFT, modularity, resurgence at IHP
+title: <i>New trends in QFT, modularity, resurgence<i>, IHP in Paris
 date: 2024-12-18 15:59:00-0400
 inline: false
 related_posts: false
