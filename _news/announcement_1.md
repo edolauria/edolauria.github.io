@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seed Seminar Event on <i>New trends in QFT, modularity, resurgence<i>, IHP, Paris
+title: New trends in QFT, modularity, resurgence. Seed Seminar Event at IHP (Paris)
 date: 2024-12-18 15:59:00-0400
 inline: false
 related_posts: false
