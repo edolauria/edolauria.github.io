@@ -24,8 +24,8 @@ I am interested in **non-perturbative aspects** of **Quantum Field Theories** (Q
 
 My results include: 
 
-  - A classification of **conformal boundary conditions** for the 4d Maxwell theory and for free massless scalars in $d\geq 2$;
-  - A classification of unitary **conformal defects** in the theory of free massless scalars in $d\geq 2$;;
+  - A classification of **conformal boundary conditions** for the 4d Maxwell theory and for free massless scalars in d>2;
+  - A classification of unitary **conformal defects** in the theory of free massless scalars in d>2;
   - A bootstrap study of **Ising and long-range vector models**;
   - A study of **renormalization group flows** for **QFTs in AdS** background.
   
