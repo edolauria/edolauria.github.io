@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Seed Seminar Event at IHP (Paris)
-date: 2015-11-07 16:11:00-0400
+date: 2015-12-18 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+This is a Seed Seminar Event on  [New trends in QFT, modularity, resurgence](https://seedseminar.apps.math.cnrs.fr), to be held of  at the Institut Henri Poincaré (IHP) in Paris. It is part of the [Seed Seminar of Mathematics and Physics](https://seedseminar.apps.math.cnrs.fr).
 
 ---
 
