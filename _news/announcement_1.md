@@ -8,4 +8,5 @@ related_posts: false
 
 <h3>Ongoing activities</h3>
 
-- <i>Trimester of the Seed Seminar</i>: <a href="https://indico.math.cnrs.fr/category/531" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
+- <i>Seed Seminar of Mathematics and Physics </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
+
