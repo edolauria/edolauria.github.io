@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seed Seminar Event at IHP (Paris)
-date: 2015-12-18 16:11:00-0400
+date: 2024-12-18 16:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -10,7 +10,18 @@ This is a Seed Seminar Event on  [New trends in QFT, modularity, resurgence](htt
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The seminar series is organized into thematic periods lasting three months each. Each thematic period includes a kick-oﬀ event at the [Institut Henri Poincaré](https://www.ihp.fr/fr) and several talks at the [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/), which are streamed on Zoom (a list can be found [here](https://seedseminar.apps.math.cnrs.fr/talks/)).
 
+We are currently supported by the Fondation mathématique Jacques Hadamard, the CNRS and the IHES; 
+
+---
+
+Past events organized within this series include:
+
+- 9 November 2024 at IHP, [New trends in QFT, modularity, resurgence](https://indico.math.cnrs.fr/event/13003/);
+- 7 June 2024 at IHES, [Matrix models for quantum systems](https://indico.math.cnrs.fr/event/12052/);
+- 27 March 2024 at IHP,[Integrable systems](https://indico.math.cnrs.fr/event/11734/);
+- 17 January 2024 at IHP, [From discrete models to condensed matter](https://indico.math.cnrs.fr/event/11013/);
+- 18 October 2023 at IHP,  [Sphere Packings and CFT](https://indico.math.cnrs.fr/event/10547/).
 
 
