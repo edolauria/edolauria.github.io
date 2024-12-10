@@ -7,6 +7,6 @@ inline: false
 related_posts: false
 ---
 
-Conlcuding event for the <i>Trimester of the Seed Seminar at the  Institut Henri Poincaré in Paris</i>: 
+<i>Seed Seminar Event</i>  at the  Institut Henri Poincaré in Paris on: 
  <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
 
