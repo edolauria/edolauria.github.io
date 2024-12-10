@@ -7,6 +7,6 @@ inline: false
 related_posts: false
 ---
 
-I will be visiting the ICTP in Trieste (IT) to take part of the <a href="https://www.igap-ts.it/2024/07/23/workshop-on-qft-in-ads/" target="_blank">Workshop on QFT in AdS. Looking forward to it! <br/>
+I will be visiting the ICTP in Trieste (IT) to take part of the <a href="https://www.igap-ts.it/2024/07/23/workshop-on-qft-in-ads/" target="_blank">Workshop on QFT in AdS <br/>. Looking forward to it!
    
 
