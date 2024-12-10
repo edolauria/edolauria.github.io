@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<h3>About me</h3>
+
 
 Theoretical physicist currently working as a postdoctoral researcher at the **Quantic** group, at ENS & Mines Paris & INRIA.
 
