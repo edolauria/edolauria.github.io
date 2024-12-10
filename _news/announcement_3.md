@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-12-18 15:59:00-0400
+date:
 inline: true
 related_posts: false
 ---
 
+- <i>Seed Seminar of Mathematics and Physics </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
 
-- <i>Seed Seminar Evant at IHP! </i>: <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>
