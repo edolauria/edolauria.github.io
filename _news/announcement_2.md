@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Workshop on QFT in AdS
