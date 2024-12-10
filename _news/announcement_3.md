@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Participation to the Workshop on QFT in AdS, ICTP, Trieste
-date: 2025-02-10 00:00:00-0400
+title: A long announcement with details
+date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
