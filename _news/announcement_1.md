@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Approaching a new <a href="https://seedseminar.apps.math.cnrs.fr">Seed Seminar Evant</a> on <i>New trends in QFT, modularity, resurgence<> at IHP!
+Approaching a new <a href="https://seedseminar.apps.math.cnrs.fr">Seed Seminar Event</a> at IHP. On <i>New trends in QFT, modularity, resurgence<>.
