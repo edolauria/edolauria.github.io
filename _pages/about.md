@@ -30,8 +30,7 @@ I am interested in **non-perturbative aspects** of **Quantum Field Theories** (Q
 <h3>Forthcoming travels</h3>
 
 
-02.002.2024 <a href="https://indico.math.cnrs.fr/category/531" target="_blank">Workshop on QFT in AdS</a><br/>
-    ICTP, Trieste, IT<br/>
+10.02.2024 - 14.02.2024 >  <i>Conference</i>: <a href="https://indico.math.cnrs.fr/category/531" target="_blank">Workshop on QFT in AdS, ICTP, Trieste, IT<br/>
    
 
 
