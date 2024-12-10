@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-This is a <i>Seed Seminar Event</i> on  <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a><br/>, to be held of  at the Institut Henri Poincaré (IHP) in Paris. It is part of the Series <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank"> Seed Seminar of Mathematics and Physics </a>.
+This is a <i>Seed Seminar Event</i> on  <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank">New trends in QFT, modularity, resurgence</a>, to be held of  at the Institut Henri Poincaré (IHP) in Paris. It is part of the Series <a href="https://seedseminar.apps.math.cnrs.fr/" target="_blank"> Seed Seminar of Mathematics and Physics </a>.
 
 This seminar series is structured into three-month thematic periods. Each thematic period is composed by: a kick-off event at [Institut Henri Poincaré](https://www.ihp.fr/fr) and a number of talks at [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/), streamed on Zoom (a list can be found [here](https://seedseminar.apps.math.cnrs.fr/talks/)). </a><br/>
 
