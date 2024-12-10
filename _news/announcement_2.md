@@ -7,6 +7,6 @@ inline: false
 related_posts: false
 ---
 
-I will be participating the <a href="https://indico.math.cnrs.fr/category/531" target="_blank">Workshop on QFT in AdS, ICTP, Trieste, IT<br/>
+I will be participating the <a href="https://www.igap-ts.it/2024/07/23/workshop-on-qft-in-ads/" target="_blank">Workshop on QFT in AdS, ICTP, Trieste, IT<br/>
    
 
