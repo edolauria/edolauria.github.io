@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Looking forward to visit IGAP February in Trieste (IT) on February 10-14 2025, to take part of a wonderful workshop on QFT in AdS!
+Looking forward to visit IGAP February in Trieste (Italy) on February 10-14 2025, to take part of the wonderful <i>Workshop on QFT in AdS<>!
 
 ---
 
