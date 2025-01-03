@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Trilled to announce my <a href="https://arxiv.org/pdf/2412.12243">arxiv preprint</a> with a <i>scaling theory for the 1d long-range Ising model near the cross-over transition<i>.
+Trilled to announce my <a href="https://arxiv.org/pdf/2412.12243">arxiv preprint</a> with a <i>scaling theory<i> for the 1d long-range Ising model near the <i>cross-over transition<i>.
