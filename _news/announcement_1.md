@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-New <a href="https://seedseminar.apps.math.cnrs.fr">Seed Seminar Event</a> at IHES on <i>New trends in QFT, modularity, resurgence<i>.
+New <a href="https://indico.math.cnrs.fr/event/13603/">Seed Seminar Event</a> at IHP on <i>Random geometry and quantum gravity<i>.
