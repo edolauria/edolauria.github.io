@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seed Seminar Event at IHP (Paris)
-date: 2025-12-02 16:11:00-0400
+date: 2025-02-12 16:11:00-0400
 inline: true
 related_posts: false
 ---
