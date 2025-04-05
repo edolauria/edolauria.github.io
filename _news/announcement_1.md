@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-New <a href="https://seedseminar.apps.math.cnrs.fr/program/#june-05-2025"> Seed Seminar Event</a> at IHP on <i>Renormalization and spin systems at low temperaturey<i>.
+New <a href="https://seedseminar.apps.math.cnrs.fr/program/#june-05-2025"> Seed Seminar Event</a> at IHP on <i>Spin systems and phases of matter<i>.
