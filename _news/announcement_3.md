@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-New <a href="https://indico.ijclab.in2p3.fr/event/11715/"> Seed Seminar Annual Worskhop </a> at Pascal Institute (Orsay).
+New <a href="https://indico.ijclab.in2p3.fr/event/11715/"> Seed Seminar Annual Worskhop </a> at Pascal Institute (Orsay)! To attend online or in person, please register at the dedicated <a href="https://indico.ijclab.in2p3.fr/event/11715/"> webpage </a>. 
