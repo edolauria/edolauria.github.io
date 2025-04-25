@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-New <a href="https://seedseminar.apps.math.cnrs.fr/program/#june-05-2025"> Seed Seminar Event</a> at IHP on <i>Spin systems and phases of matter<i>.
+New <a href="https://indico.ijclab.in2p3.fr/event/11715/"> Seed Seminar Event</a> at IHP on <i>Spin systems and phases of matter<i>. Please register!
