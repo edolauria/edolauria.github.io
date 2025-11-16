@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the workshop <a href="https://www.newton.ac.uk/event/bidw02/"> Diving Deeper into Defects: On the Intersection of Field Theory, Quantum Matter, and Mathematics </a>, at the Newton Institute in Cambridge this October. The talk can be found here <a href="https://www.youtube.com/watch?v=wzCNDpu8jTg">.
+I gave a talk at the workshop <a href="https://www.newton.ac.uk/event/bidw02/"> Diving Deeper into Defects: On the Intersection of Field Theory, Quantum Matter, and Mathematics </a>, at the Newton Institute in Cambridge this October. The talk can be found <a href="https://www.youtube.com/watch?v=wzCNDpu8jTg"> here</a>.
 
 This is part of a bigger workshop on <a href="https://www.newton.ac.uk/event/bid/"> Quantum field theory with boundaries, impurities, and defects </a>.
