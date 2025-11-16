@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Trilled to announce our <a href="https://arxiv.org/abs/2509.26372">arxiv preprint</a> entitled: <i> Long-range minimal models </i>.
+Trilled to announce our <a href="https://arxiv.org/abs/2509.26372">arxiv preprint</a> entitled: <i> Long-range minimal models</i>.
